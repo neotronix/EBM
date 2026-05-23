@@ -9,28 +9,28 @@
 страховой номер 00460892329
 
 </p>
-  бенефициарный владелец именной ценной бумаги: <details><summary>Свидетельство о рождении</summary>
+бенефициарный владелец именной ценной бумаги: <details><summary>Свидетельство о рождении</summary>
 фамилия <span class="font-violet">Масленников</span><br>
 имя <span class="font-violet">Евгений</span><br>
 отчество <span class="font-violet">Владиславович</span><br>
 родился <span class="font-violet">12 VI 1968 г. двенадцатого июня тысяча девятьсот шестьдесят восьмого</span> года<br>
 место рождения: город <span class="font-violet">Павлодар</span><br>
 о чем в книге записей актов гражданского состояния о рождении <span class="font-violet">1968</span> года <span class="font-violet">VII</span> месяца
- <span class="font-violet">10</span>
- числа произведена соответствующая запись за № <span class="font-violet">1903</span><br>
-      Место регистрации <span class="font-violet">б/ЗАГС<br>Павлодар</span><br>
-      Дата выдачи <span class="font-violet">10 VII 1968</span> г.
+<span class="font-violet">10</span>
+числа произведена соответствующая запись за № <span class="font-violet">1903</span><br>
+Место регистрации <span class="font-violet">б/ЗАГС<br>Павлодар</span><br>
+Дата выдачи <span class="font-violet">10 VII 1968</span> г.
 
-      гражданство (код страны) 810<br>Союз Советских Социалистических Республик (СССР)<br>Казахская ССР (Советская Социалистическая Республика)<br>
-      <span class="font-red">Принято за ценность оригинальным бенефициарным владельцем.</span><br>
-    SHA256 1F8DE3FDC2C61647E697243FC05CDB83C12CCC75987658D584690928427CFA34
+гражданство (код страны) 810<br>Союз Советских Социалистических Республик (СССР)<br>Казахская ССР (Советская Социалистическая Республика)<br>
+<span class="font-red">Принято за ценность оригинальным бенефициарным владельцем.</span><br>
+SHA256 1F8DE3FDC2C61647E697243FC05CDB83C12CCC75987658D584690928427CFA34
 </details><details><summary>Hash SHA256</summary> 1F8DE3FDC2C61647E697243FC05CDB83C12CCC75987658D584690928427CFA34</details>Sum: 19681206366227476
 	
 </p>
 все права защищены © без ущерба, без предубеждения, без передачи прав
 <details><summary>Электропочта</summary>eugene.maslennikov@gmail.com<br>neotronix.technology@gmail.com</details>
 
-  24 день месяца апреля 2020 года 7528 лѣта  <br>
+24 день месяца апреля 2020 года 7528 лѣта  <br>
 статьи 2, 17, 18 Конституции; ст. 1012, 421, 1195, 413, 329 ГК
 <!-- Google - css hex color -->
 index.md
