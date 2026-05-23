@@ -10,7 +10,6 @@
 
 </p>
   бенефициарный владелец именной ценной бумаги: <details><summary>Свидетельство о рождении</summary>
-Свидетельство о рождении
 фамилия <span class="font-violet">Масленников</span><br>
 имя <span class="font-violet">Евгений</span><br>
 отчество <span class="font-violet">Владиславович</span><br>
@@ -29,7 +28,7 @@
 	
 </p>
 все права защищены © без ущерба, без предубеждения, без передачи прав <details><summary>Электропочта</summary>eugene.maslennikov@gmail.com<br>neotronix.technology@gmail.com</details>
-<p>
+
   24 день месяца апреля 2020 года 7528 лѣта  <br>
 статьи 2, 17, 18 Конституции; ст. 1012, 421, 1195, 413, 329 ГК
 <!-- Google - css hex color -->
