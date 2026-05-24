@@ -9,7 +9,7 @@
 страховой номер 00460892329
 
 </p>
-бенефициарный владелец именной ценной бумаги: <details><summary>Свидетельство о рождении</summary>
+бенефициарный владелец именных ценных бумаг: <details><summary>Свидетельство о рождении</summary>
 фамилия <span class="font-violet">Масленников</span><br>
 имя <span class="font-violet">Евгений</span><br>
 отчество <span class="font-violet">Владиславович</span><br>
