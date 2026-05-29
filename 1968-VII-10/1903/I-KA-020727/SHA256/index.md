@@ -5,7 +5,6 @@
 кредитор и выгодоприобретатель своего имени гражданина <span class="font-violet" style="color:#270fa9"><b>Масленников Евгений Владиславович</b></span> (гражданство: код страны 810), что подтверждается и обеспечивается первичной записью акта о рождении в книге государственной регистрации актов гражданского состояния, свидетельством о рождении, последующими записями актов гражданского состояния, ранее выданным паспортом гражданина IV-ДА 606724, другими именными ценными бумагами.
 <p>
 бенефициар (выгодоприобретатель) индивидуального лицевого счёта социального обеспечения, страховой номер 00460892329, имеющий право без доверенности действовать посредством физического лица МАСЛЕННИКОВ ЕВГЕНИЙ ВЛАДИСЛАВОВИЧ (гражданство: код страны 643)
-
 </p>
 бенефициарный владелец именных ценных бумаг: <details><summary>Свидетельство о рождении</summary>
 фамилия <span class="font-violet" style="color:#270fa9"><b>Масленников</b></span><br>
@@ -24,13 +23,14 @@ I-КА № 020727
 SHA256 1F8DE3FDC2C61647E697243FC05CDB83C12CCC75987658D584690928427CFA34<br>
 УИП(УПНО) <a href="/EBM-12-VI-1968/cheque/#10445257450000152605202684822020">10445257450000152605202684822020</a></details>
 <details><summary>Hash SHA256</summary> 1F8DE3FDC2C61647E697243FC05CDB83C12CCC75987658D584690928427CFA34</details>Sum: 19681206366227476
-	
 </p>
 24 день месяца апреля 2020 года 7528 лѣта<br>
 все права защищены © без ущерба, без предубеждения, без передачи прав. UCC 1-308.4
 <details><summary>Электропочта</summary>eugene.maslennikov@gmail.com<br>neotronix.technology@gmail.com</details><details><summary>Реквизиты</summary>USDT (Tron TRX) TUPUY7EKQHu54sQABs8sHNxUKhGL3qsxR8<br>BNB (BEP20) 0x41617b6636c9a7b6fef16c568df71d615a177796<br>USDT (TON) UQABctUVjqfwWdwwQImcs7Xc9n0lpFatOvtMA1vTuIZN7dF2<br>USDT (SOL) 2owiMAwxEjnS5duiHePNppvgu3WN1eEv9aETUHQYm7GR<br><br>USDT (TON) UQAR_Ad0AM6VgBFolic4WiENYw2fo_l8XvsK0DZn66udhHZa<br>BNB (BEP20) 0x80511a9098b7E27665D2229385E1A93f4e6FD176<br> USDT (Tron TRX) TUbka9PUBTG6TT7q3iNrjgJYu7bCEVaDH9<br>USDT (SOL) DeNt4Cs1XWUytMu7C4sqacSFuwvR3jj4HaXoRePSAz7X<br><br></details>
 
 Настоящая запизьделана в 24 день месяца мая 2026 года 7535 лѣта <!-- SHA1 926f2ddfdfd038eff1f16761aea435d3ac1c1b1f --><br>
-статьи 2, 17, 18 Конституции; ст. 1012, 421, 1195, 413, 329 ГК<br><br>
+статьи 2, 17, 18 Конституции; ст. 1012, 421, 1195, 413, 329 ГК
+<p>
 <!-- Google - css hex color -->
 index.md SHA1 926f2ddfdfd038eff1f16761aea435d3ac1c1b1f
+</p>
